@@ -1,9 +1,14 @@
 # androidSocket
 Android SocketAPI with Kotlin
 
-## How to compile and run kotlin file 
-<br>
+## Server Side 
+* Lang : Java <br>
+* IDE : Intellij <br>
 
-__Kotlin 명령어__ <br>
-* kotlinc hello.kt -include-runtime -d hello.jar
-* java -jar hello.jar
+## Client Side
+* Lang : Kotlin <br>
+* IDE : Android Studio
+
+## Data
+* Simple Data transmission <br>
+* String, Integer & 
