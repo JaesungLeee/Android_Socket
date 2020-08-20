@@ -11,4 +11,4 @@ Android SocketAPI with Kotlin
 
 ## Data
 * Simple Data transmission <br>
-* String, Integer & 
+* String, Integer & Real Number
